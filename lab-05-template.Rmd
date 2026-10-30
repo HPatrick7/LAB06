@@ -110,7 +110,9 @@ Complete the following code to get the data viz to represent "how many candies c
 Now look at a numerical variable, such as `winpercent`. Create an histogram for this variable using ggplot2 functions below. Include informative x and y labels and a title, as a good practice.
 
 ```{r}
-# Your code here
+candy_df %>% 
+  ggplot(aes(x = winpercent)) + 
+  geom_histogram(bins = 10, fill = "forestgreen", colour = "black")
 
 ```
 
