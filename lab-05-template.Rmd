@@ -85,6 +85,7 @@ How many observations and variables are in this dataset?
 Did you identify the type of variables, remember that this detail is crucial to create which kind of data visualization in general. 
 
 _Write your comments about results_
+1092 observations, 1 character, 9 logical, 3 double.
 
 # Data viz - One variable at a time
 
