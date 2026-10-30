@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-It is slightly unclear which variable is on the y-axis. Also, the range of values on the x-axis is also unclear as there are small and big bags between values.
+It is slightly unclear which variable is on the y-axis. Also, the range of values on the x-axis is also unclear as there are small and big gaps between values.
 
 
 # Data Visualization for Halloween 
