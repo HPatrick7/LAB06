@@ -33,7 +33,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+Image 2 uses the incorrect chart to display the data. The pie chart is used for data that isn't suitable as they each have different values. A bar chart would be better to be able to display the difference in readings between countries.
 
 
 
@@ -45,7 +45,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 
 _Write your comments about image 3 below_
 
-The graph describes as the rule of low increases the life expectancy increases. There are a few confusing things about the graph though like what determines the size of the points plotted. also the axis had no scales or numbers to quantify how much life expectancy changes. How do you quantify "RULE OF LAW"?
+
 
 
 ## Image 4
